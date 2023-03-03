@@ -612,7 +612,7 @@ form textarea {
 /*FOOTER*/
 footer {
 	color: #E5E8EF;
-	background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url(../images/extra/world.jpg);
+	background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url('https://github.com/LIGHTNING86/E_Learning_Wesbite/blob/main/images/extra/world.jpg');
 	background-attachment: fixed;
 	background-size: cover;
 	padding: 50px 0; 
